@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImplicitIntemtApp</string>
+    <string name="txturl">https://www.google.com/</string>
+    <string name="email">sstasik.sebastian@gmail.com</string>
+    <string name="emailtxt">stasik.sebastian@gmail.com</string>
+    <string name="emailAdres">sstasik.sebastian@gmail.com</string>
+</resources>
